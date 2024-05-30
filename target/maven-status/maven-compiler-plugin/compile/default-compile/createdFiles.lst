@@ -1,0 +1,4 @@
+com\contactsapp\servlet\ContactServelet.class
+com\contactsapp\model\Contact.class
+com\example\contactsapp\JakartaRestConfiguration.class
+com\example\contactsapp\resources\JakartaEE8Resource.class
